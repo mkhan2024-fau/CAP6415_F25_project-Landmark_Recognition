@@ -1,0 +1,11 @@
+October 21: 
+send project choice information to TAs
+
+november 07:
+submited project choice to professor
+
+november 10:
+Created Github account and the project repository.  
+
+Added readme and gitignore files.  
+
