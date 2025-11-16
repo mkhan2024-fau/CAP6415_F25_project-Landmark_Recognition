@@ -1,0 +1,7 @@
+Kaggle website dataset understanding. 
+
+Read the official paper.
+
+Went through the official model as well. 
+
+coding to see the dataset and explore it.
