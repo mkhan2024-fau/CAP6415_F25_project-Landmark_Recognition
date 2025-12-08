@@ -1,5 +1,7 @@
 # Project Summary: Google Landmark Recognition 2021
 
+Project video presentation is available in this link till Jan 2026: (https://1drv.ms/v/c/1da64b904c9646d8/IQBn_Gkz31zPRog7HpbFjXNkAcMVKC24uQJ1RgrOOOY8KAQ?e=QmgqtX)
+
 
 ## Abstract
 This project addresses the challenge of fine-grained instance-level recognition using the [Google Landmarks Dataset v2 (GLDv2)](https://www.kaggle.com/competitions/landmark-recognition-2021). The primary difficulty presented by this dataset is the extreme "long-tail" distribution, where the majority of the 81,000+ landmark classes contain very few training examples, making standard classification computationally expensive and prone to overfitting.  
