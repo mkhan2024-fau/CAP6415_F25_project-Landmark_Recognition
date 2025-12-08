@@ -33,8 +33,8 @@ The model was trained using the Cross-Entropy Loss function, which is standard f
 ## Framework & Attribution
 * **Framework:** TensorFlow/Keras
 * **Base Architecture:** ResNet152 (Pre-trained on ImageNet)
-* **Training:** Training was done on Kaggle.
-* **Dataset Citation:** T. Weyand, A. Araujo, B. Cao and J. Sim, "Google Landmarks Dataset v2 - A Large-Scale Benchmark for Instance-Level Recognition and Retrieval," *Proc. CVPR*, 2020.
+* **Training:** Training was done on Kaggle. The code is available in Kaggle (https://www.kaggle.com/code/mohammadkhanfau/notebookglr-v1). 
+* **Dataset Citation:** T. Weyand, A. Araujo, B. Cao and J. Sim, "Google Landmarks Dataset v2 - A Large-Scale Benchmark for Instance-Level Recognition and Retrieval," *Proc. CVPR*, 2020. 
 * **Code References:**
 - https://www.kaggle.com/code/mohitsinghdhaka/exercise3-notebook-glr2021
 - https://www.kaggle.com/code/takedarts/inference-and-submission-pytorch-resnet34
